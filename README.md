@@ -1,7 +1,11 @@
+![Header](https://github.com/Abdul-Rehman-Tahir01/Abdul-Rehman-Tahir01/blob/main/Banner.png)
+
 # Moneka
 Read Me!
 <h1 align="center">Hi 👋, I'm Moneka </h1>
 <h3 align="center">| AI aficionado | 👨🏻‍💻🦾🤖</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/BferOKonYOspm28AiB">
+
 
 
 - 📝 I love to write Blogs.
