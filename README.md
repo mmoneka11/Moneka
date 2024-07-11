@@ -1,6 +1,6 @@
 ![Header](https://github.com/mmoneka11/Moneka/blob/main/Banner.jpg)
 
-# |+AI+aficionado | 👨🏻‍💻🦾🤖
+# <h1 align="center">| AI aficionado | 👨🏻‍💻🦾🤖 </h1>
 Read Me!
 <h1 align="center">Hi 👋, I'm Moneka </h1>
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Data+Scientist+📊+👨🏻‍💻 alt="Typing SVG" /></a></h3>
