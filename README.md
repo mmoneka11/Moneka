@@ -6,8 +6,7 @@ Read Me!
 
 <!-- <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Data+Scientist+📊+👨🏻‍💻 alt="Typing SVG" /></a></h3>
  -->
-<h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src=" https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Data+Scientist
- alt="Typing SVG" /></a></h3>
+<h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Data+Scientist alt="Typing SVG" /></a></h3>
 
  
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/BferOKonYOspm28AiB">
